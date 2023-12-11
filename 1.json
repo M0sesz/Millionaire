@@ -1,0 +1,945 @@
+[
+  {
+    "id": 1,
+    "level": "easy",
+    "question": "Яка столиця України?",
+    "answers": [
+      {
+        "text": "Київ",
+        "correct": true
+      },
+      {
+        "text": "Львів",
+        "correct": false
+      },
+      {
+        "text": "Харків",
+        "correct": false
+      },
+      {
+        "text": "Одеса",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "level": "hard",
+    "question": "Яка книга вважається найдорожчою книгою у світі?",
+    "answers": [
+      {
+        "text": "Книга Келли",
+        "correct": false
+      },
+      {
+        "text": "Байблія",
+        "correct": false
+      },
+      {
+        "text": "Кодекс Леонардо да Вінчі",
+        "correct": true
+      },
+      {
+        "text": "Дон Кіхот",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "level": "medium",
+    "question": "Що таке хімічний елемент з символом 'Na'?",
+    "answers": [
+      {
+        "text": "Неон",
+        "correct": false
+      },
+      {
+        "text": "Натрій",
+        "correct": true
+      },
+      {
+        "text": "Нітроген",
+        "correct": false
+      },
+      {
+        "text": "Нікель",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "level": "easy",
+    "question": "Хто написав 'Ромео і Джульєтту'?",
+    "answers": [
+      {
+        "text": "Чарльз Діккенс",
+        "correct": false
+      },
+      {
+        "text": "Вільям Шекспір",
+        "correct": true
+      },
+      {
+        "text": "Джейн Остін",
+        "correct": false
+      },
+      {
+        "text": "Федор Достоєвський",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "level": "easy",
+    "question": "Скільки областей в Україні?",
+    "answers": [
+      {
+        "text": "24",
+        "correct": false
+      },
+      {
+        "text": "25",
+        "correct": true
+      },
+      {
+        "text": "26",
+        "correct": false
+      },
+      {
+        "text": "27",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "level": "medium",
+    "question": "Як називається найбільший річковий острів в Україні?",
+    "answers": [
+      {
+        "text": "Хортиця",
+        "correct": true
+      },
+      {
+        "text": "Буян",
+        "correct": false
+      },
+      {
+        "text": "Херсонес",
+        "correct": false
+      },
+      {
+        "text": "Тенеріфе",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "level": "medium",
+    "question": "Яке місто найбільше за населенням в Україні?",
+    "answers": [
+      {
+        "text": "Київ",
+        "correct": false
+      },
+      {
+        "text": "Харків",
+        "correct": true
+      },
+      {
+        "text": "Львів",
+        "correct": false
+      },
+      {
+        "text": "Одеса",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "level": "hard",
+    "question": "Що таке квантовий комп'ютер?",
+    "answers": [
+      {
+        "text": "Комп'ютер для віртуальної реальності",
+        "correct": false
+      },
+      {
+        "text": "Комп'ютер, який працює на квантових бітах",
+        "correct": true
+      },
+      {
+        "text": "Суперкомп'ютер для обчислень складної графіки",
+        "correct": false
+      },
+      {
+        "text": "Комп'ютер для кібернетичних атак",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "level": "hard",
+    "question": "Яка найвища гора в Україні?",
+    "answers": [
+      {
+        "text": "Говерла",
+        "correct": true
+      },
+      {
+        "text": "Петрос",
+        "correct": false
+      },
+      {
+        "text": "Піп Іван",
+        "correct": false
+      },
+      {
+        "text": "Грача",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "level": "medium",
+    "question": "Скільки святкових днів у році в Україні?",
+    "answers": [
+      {
+        "text": "8",
+        "correct": false
+      },
+      {
+        "text": "9",
+        "correct": false
+      },
+      {
+        "text": "10",
+        "correct": true
+      },
+      {
+        "text": "11",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "level": "easy",
+    "question": "Яка площа України?",
+    "answers": [
+      {
+        "text": "603,500 км²",
+        "correct": true
+      },
+      {
+        "text": "550,100 км²",
+        "correct": false
+      },
+      {
+        "text": "670,200 км²",
+        "correct": false
+      },
+      {
+        "text": "720,900 км²",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "level": "hard",
+    "question": "Як називається найдовший річковий лиман в Україні?",
+    "answers": [
+      {
+        "text": "Тилігульський",
+        "correct": true
+      },
+      {
+        "text": "Каховський",
+        "correct": false
+      },
+      {
+        "text": "Березанський",
+        "correct": false
+      },
+      {
+        "text": "Курортний",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "level": "medium",
+    "question": "Скільки великих річок протікає через територію України?",
+    "answers": [
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": true
+      },
+      {
+        "text": "6",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "level": "medium",
+    "question": "Що таке теорія відносності в фізиці?",
+    "answers": [
+      {
+        "text": "Теорія, що описує взаємодію між різними видами матерії",
+        "correct": false
+      },
+      {
+        "text": "Теорія, яка вивчає властивості рідин та газів",
+        "correct": false
+      },
+      {
+        "text": "Теорія, розвинута Альбертом Ейнштейном, що описує взаємодію між прискореними об'єктами у просторі-часі",
+        "correct": true
+      },
+      {
+        "text": "Теорія, яка визначає межі між живою та неживою природою",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "level": "hard",
+    "question": "Що таке алгоритм SHA-256?",
+    "answers": [
+      {
+        "text": "Алгоритм для створення випадкових чисел",
+        "correct": false
+      },
+      {
+        "text": "Алгоритм для стискання зображень",
+        "correct": false
+      },
+      {
+        "text": "Хеш-функція, яка генерує 256-бітний хеш-код",
+        "correct": true
+      },
+      {
+        "text": "Алгоритм для шифрування текстових повідомлень",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "level": "hard",
+    "question": "Що таке принцип невизначеності Гайзенберга?",
+    "answers": [
+      {
+        "text": "Принцип, що описує властивості вакууму в квантовій фізиці",
+        "correct": false
+      },
+      {
+        "text": "Принцип, який обмежує точність визначення одночасно двох зв'язаних змінних, таких як момент імпульсу та координата частинки",
+        "correct": true
+      },
+      {
+        "text": "Принцип, який стосується еволюції видів у біології",
+        "correct": false
+      },
+      {
+        "text": "Принцип, який визначає рух планет навколо Сонця",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "level": "easy",
+    "question": "Яка столиця Франції?",
+    "answers": [
+      {
+        "text": "Рим",
+        "correct": false
+      },
+      {
+        "text": "Мадрид",
+        "correct": false
+      },
+      {
+        "text": "Париж",
+        "correct": true
+      },
+      {
+        "text": "Берлін",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "level": "easy",
+    "question": "Яке число вважається щасливим у багатьох культурах?",
+    "answers": [
+      {
+        "text": "7",
+        "correct": true
+      },
+      {
+        "text": "13",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "level": "easy",
+    "question": "Як називається великий океан між Азією та Америкою?",
+    "answers": [
+      {
+        "text": "Атлантичний",
+        "correct": false
+      },
+      {
+        "text": "Індійський",
+        "correct": false
+      },
+      {
+        "text": "Тихий",
+        "correct": true
+      },
+      {
+        "text": "Північний Льодовитий",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "level": "easy",
+    "question": "Що таке Великдень?",
+    "answers": [
+      {
+        "text": "Християнське свято воскресіння Ісуса Христа",
+        "correct": true
+      },
+      {
+        "text": "Ісламське новоріччя",
+        "correct": false
+      },
+      {
+        "text": "Буддійське свято світла",
+        "correct": false
+      },
+      {
+        "text": "Єврейське свято Пасхи",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "level": "medium",
+    "question": "Яка кількість континентів на Землі?",
+    "answers": [
+      {
+        "text": "5",
+        "correct": false
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "7",
+        "correct": true
+      },
+      {
+        "text": "8",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "level": "medium",
+    "question": "Хто написав 'Ромео і Джульєтту'?",
+    "answers": [
+      {
+        "text": "Чарльз Діккенс",
+        "correct": false
+      },
+      {
+        "text": "Вільям Шекспір",
+        "correct": true
+      },
+      {
+        "text": "Джейн Остін",
+        "correct": false
+      },
+      {
+        "text": "Леонардо да Вінчі",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "level": "medium",
+    "question": "У якому році відбулася Французька революція?",
+    "answers": [
+      {
+        "text": "1776",
+        "correct": false
+      },
+      {
+        "text": "1789",
+        "correct": true
+      },
+      {
+        "text": "1812",
+        "correct": false
+      },
+      {
+        "text": "1830",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "level": "medium",
+    "question": "Що таке магнітний полюс Землі?",
+    "answers": [
+      {
+        "text": "Точка, де зустрічаються всі часові пояси",
+        "correct": false
+      },
+      {
+        "text": "Точка, де росте найбільше дерево",
+        "correct": false
+      },
+      {
+        "text": "Точка, де стрілка компаса вказує вниз",
+        "correct": false
+      },
+      {
+        "text": "Точка, де лінії сил магнітного поля виходять назовні",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "level": "hard",
+    "question": "Що таке антивірус?",
+    "answers": [
+      {
+        "text": "Програма для резервного копіювання даних",
+        "correct": false
+      },
+      {
+        "text": "Програма для захисту від вірусів на комп'ютері",
+        "correct": true
+      },
+      {
+        "text": "Програма для оптимізації швидкості Інтернет-з'єднання",
+        "correct": false
+      },
+      {
+        "text": "Програма для створення музики",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "level": "hard",
+    "question": "Що таке квантовий комп'ютер?",
+    "answers": [
+      {
+        "text": "Комп'ютер для віртуальної реальності",
+        "correct": false
+      },
+      {
+        "text": "Комп'ютер, який працює на квантових бітах",
+        "correct": true
+      },
+      {
+        "text": "Суперкомп'ютер для обчислень складної графіки",
+        "correct": false
+      },
+      {
+        "text": "Комп'ютер для кібернетичних атак",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "level": "medium",
+    "question": "Що таке фотосинтез?",
+    "answers": [
+      {
+        "text": "Процес дихання рослин",
+        "correct": false
+      },
+      {
+        "text": "Процес виділення кисню в атмосферу",
+        "correct": false
+      },
+      {
+        "text": "Процес перетворення сонячної енергії на органічні сполуки",
+        "correct": true
+      },
+      {
+        "text": "Процес росту коренів",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "level": "hard",
+    "question": "Якій країні належить найбільше острівів у світі?",
+    "answers": [
+      {
+        "text": "Швеція",
+        "correct": false
+      },
+      {
+        "text": "Канада",
+        "correct": false
+      },
+      {
+        "text": "Архіпелаг Індонезія",
+        "correct": true
+      },
+      {
+        "text": "Японія",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "level": "hard",
+    "question": "Що таке темна матерія?",
+    "answers": [
+      {
+        "text": "Матеріал, що поглиблює світло",
+        "correct": false
+      },
+      {
+        "text": "Тип матерії, який не випромінює світло",
+        "correct": false
+      },
+      {
+        "text": "Матерія, яка не взаємодіє з електромагнітним випромінюванням, але має гравітаційний вплив",
+        "correct": true
+      },
+      {
+        "text": "Екзотична форма рідкого металу",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "level": "hard",
+    "question": "Яка найвища температура, яка коли-небудь була зафіксована на Землі?",
+    "answers": [
+      {
+        "text": "100 градусів за Цельсієм",
+        "correct": false
+      },
+      {
+        "text": "500 градусів за Цельсієм",
+        "correct": false
+      },
+      {
+        "text": "1,000 градусів за Цельсієм",
+        "correct": false
+      },
+      {
+        "text": "15 мільйонів градусів за Цельсієм (у ядрі створеного в лабораторії плазмового термоядерного реактора)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "level": "hard",
+    "question": "Що таке атака з використанням переповнення буфера?",
+    "answers": [
+      {
+        "text": "Напад на мережевий захист",
+        "correct": false
+      },
+      {
+        "text": "Атака на великий об'єм даних",
+        "correct": false
+      },
+      {
+        "text": "Використання вразливості для переповнення буфера пам'яті",
+        "correct": true
+      },
+      {
+        "text": "Атака за допомогою зміни конфігураційних файлів",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "level": "hard",
+    "question": "Що таке SQL-ін'єкція?",
+    "answers": [
+      {
+        "text": "Атака на роботу з базою даних",
+        "correct": false
+      },
+      {
+        "text": "Впровадження зловмисного коду через вразливість SQL запитів",
+        "correct": true
+      },
+      {
+        "text": "Атака на мережевий протокол",
+        "correct": false
+      },
+      {
+        "text": "Атака на програму для створення інтерфейсу",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "level": "hard",
+    "question": "Що таке DDoS-атака?",
+    "answers": [
+      {
+        "text": "Доменно-орієнтована атака",
+        "correct": false
+      },
+      {
+        "text": "Атака на DNS-сервер",
+        "correct": false
+      },
+      {
+        "text": "Розподілена атака на відмову в обслуговуванні",
+        "correct": true
+      },
+      {
+        "text": "Атака на веб-додаток",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "level": "hard",
+    "question": "Що таке технологія блокчейн?",
+    "answers": [
+      {
+        "text": "Технологія шифрування електронних листів",
+        "correct": false
+      },
+      {
+        "text": "Технологія віртуальної реальності",
+        "correct": false
+      },
+      {
+        "text": "Система децентралізованого реєстру, що базується на ланцюгах блоків",
+        "correct": true
+      },
+      {
+        "text": "Технологія створення графічних об'єктів",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "level": "hard",
+    "question": "Що означає термін 'zero-day вразливість'?",
+    "answers": [
+      {
+        "text": "Вразливість, яку вже використовують для атак",
+        "correct": false
+      },
+      {
+        "text": "Нова вразливість, яка відома лише виробникові програмного забезпечення",
+        "correct": true
+      },
+      {
+        "text": "Вразливість, яка виникає в результаті нещасного випадку",
+        "correct": false
+      },
+      {
+        "text": "Атака на програмне забезпечення, вироблене за нульовий день",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "level": "medium",
+    "question": "Що таке URL?",
+    "answers": [
+      {
+        "text": "Універсальний мережевий локатор",
+        "correct": true
+      },
+      {
+        "text": "Шлях до виконуваного файлу",
+        "correct": false
+      },
+      {
+        "text": "Код мовлення URL",
+        "correct": false
+      },
+      {
+        "text": "Ключове слово для пошуку в інтернеті",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "level": "hard",
+    "question": "Що таке алгоритм RSA?",
+    "answers": [
+      {
+        "text": "Алгоритм шифрування",
+        "correct": true
+      },
+      {
+        "text": "Алгоритм стиснення",
+        "correct": false
+      },
+      {
+        "text": "Алгоритм сортування",
+        "correct": false
+      },
+      {
+        "text": "Алгоритм штучного інтелекту",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "level": "easy",
+    "question": "Яка найбільша планета в Сонячній системі?",
+    "answers": [
+      {
+        "text": "Марс",
+        "correct": false
+      },
+      {
+        "text": "Юпітер",
+        "correct": true
+      },
+      {
+        "text": "Венера",
+        "correct": false
+      },
+      {
+        "text": "Нептун",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "level": "medium",
+    "question": "Що таке SQL?",
+    "answers": [
+      {
+        "text": "Мова програмування",
+        "correct": false
+      },
+      {
+        "text": "Мова запитів до баз даних",
+        "correct": true
+      },
+      {
+        "text": "Графічний інтерфейс",
+        "correct": false
+      },
+      {
+        "text": "Операційна система",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "level": "hard",
+    "question": "Що таке теорія струн?",
+    "answers": [
+      {
+        "text": "Теорія фізичних колізій",
+        "correct": false
+      },
+      {
+        "text": "Теорія відносності",
+        "correct": false
+      },
+      {
+        "text": "Теорія квантового поля",
+        "correct": false
+      },
+      {
+        "text": "Теорія, яка розглядає фундаментальні струни як основні об'єкти",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "level": "medium",
+    "question": "Що таке біткоін?",
+    "answers": [
+      {
+        "text": "Тип криптовалюти",
+        "correct": true
+      },
+      {
+        "text": "Електронна пошта",
+        "correct": false
+      },
+      {
+        "text": "Назва соціальної мережі",
+        "correct": false
+      },
+      {
+        "text": "Елемент хімічного складу",
+        "correct": false
+      }
+    ]
+  }
+]
